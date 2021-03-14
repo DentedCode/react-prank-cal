@@ -1,0 +1,12 @@
+.buttons {
+	margin: 15px;
+	background: rgb(226, 90, 90);
+}
+
+.buttons button {
+	margin: 1rem;
+	width: 60px;
+	height: 60px;
+	font-size: 1.5rem;
+	font-weight: bolder;
+}

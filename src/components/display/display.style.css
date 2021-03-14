@@ -1,0 +1,9 @@
+.input {
+	margin: 15px;
+	background: #fff;
+	height: 2.5rem;
+	font-size: 1.5rem;
+	text-align: right;
+	border-radius: 3px;
+	border: 1px solid grey;
+}
